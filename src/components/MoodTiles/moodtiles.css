@@ -1,0 +1,21 @@
+.moodTiles
+{
+    margin-top: 10%;
+    border: none;
+    height:100%;
+    width: 100%;
+}
+.moodTilesButton
+{
+    width: 10%;
+    margin-left: 40px;
+    background-color: lightblue;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.currentMood
+{
+    font-family: 'Brush Script MT', cursive;
+}
